@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mvnweek14.mvnProjectw14.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 sec - in mvnweek14.mvnProjectw14.AppTest

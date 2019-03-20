@@ -1,0 +1,5 @@
+mvnweek14\mvnProjectw14\service\FriendsService.class
+mvnweek14\mvnProjectw14\entity\Friend.class
+mvnweek14\mvnProjectw14\repository\FriendRepository.class
+mvnweek14\mvnProjectw14\controllers\FriendsController.class
+mvnweek14\mvnProjectw14\App.class
